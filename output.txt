@@ -1,1 +1,1 @@
-Element 15 was not found!
+Element 6 found at index: 1
